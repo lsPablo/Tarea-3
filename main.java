@@ -14,4 +14,6 @@ public class main {
     divisor = teclado.nextInt();
     cociente = dividendo/divisor;
     residuo = dividendo % divisor;
-
+    System.out.println("Hola muy buenas gente");
+    a = 04
+    ()
